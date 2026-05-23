@@ -17,7 +17,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Leochens/pre-open-source.git ~/.codex/skills/pre-open-source
+git clone https://github.com/Leochens/skill-pre-open-source.git ~/.codex/skills/pre-open-source
 ```
 
 然后可以这样告诉 Codex：

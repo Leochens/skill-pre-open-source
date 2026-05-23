@@ -17,7 +17,7 @@ A Codex skill for preparing a repository before making it public. It treats open
 ## Installation
 
 ```bash
-git clone https://github.com/Leochens/pre-open-source.git ~/.codex/skills/pre-open-source
+git clone https://github.com/Leochens/skill-pre-open-source.git ~/.codex/skills/pre-open-source
 ```
 
 Then ask Codex:
