@@ -1,0 +1,7 @@
+interface:
+  display_name: "Pre-Open Source"
+  short_description: "Prepare repos for safe public release"
+  default_prompt: "Use $pre-open-source to prepare this repository for open sourcing."
+
+policy:
+  allow_implicit_invocation: true
