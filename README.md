@@ -4,6 +4,8 @@
 
 [![GuanTou Lab](https://world.guantou.site/badge.svg?theme=dark&accent=red&lang=en&size=sm)](https://world.guantou.site/)
 
+![Pre-Open Source preview](assets/cover.svg)
+
 A Codex skill for preparing a repository before making it public. It treats open-sourcing as a security, documentation, licensing, and product-readiness task rather than a last-minute README polish pass.
 
 ## What It Helps With

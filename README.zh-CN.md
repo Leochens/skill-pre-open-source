@@ -4,6 +4,8 @@
 
 [![罐头实验室](https://world.guantou.site/badge.svg?theme=dark&accent=red&lang=zh&size=sm)](https://world.guantou.site/)
 
+![Pre-Open Source 介绍图](assets/cover.svg)
+
 这是一个用于项目开源前准备的 Codex skill。它把开源当作安全、文档、许可和产品发布准备任务，而不是最后随便补一个 README。
 
 ## 它适合做什么
